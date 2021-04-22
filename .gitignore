@@ -1,0 +1,7 @@
+site/
+venv/
+
+.history
+
+docs/overrides/debug.log
+docs/overrides/main.html

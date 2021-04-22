@@ -1,0 +1,22 @@
+site_name: Mi Doc
+use_directory_urls: true
+nav:
+  - Home: index.md
+  - About: about.md
+theme:
+  name: material
+  custom_dir: overrides
+  icon:
+    repo: fontawesome/brands/git-alt
+  palette:
+    schema: default
+    primary: red
+plugins:
+  - search
+  - macros
+markdown_extensions:
+  - attr_list
+extra:
+  version:
+    provider: mike
+    default: latest
