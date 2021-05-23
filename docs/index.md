@@ -1,6 +1,6 @@
 # Este es mi Título
 
-Version inicial 0.0.1
+Cambio para nueva version 0.0.2
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
